@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioengineering, Hefei University of Technology | Hefei, Anhui, China, Aug 2010
+* M.S. in Biomechanics, University of Tennessee | Knoxville, TN, USA, Aug 2014
+* Ph.D in Biomechanics & Minor in Statistics University of Tennessee | Knoxville, TN, May 2018
 
 Work experience
 ======
@@ -42,7 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,7 +52,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
